@@ -1,0 +1,1029 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Place au Fromage ",
+        "description": "Place de la Fraternité, 93100 Montreuil",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.423068,
+          48.85712
+        ],
+        "type": "Point"
+      },
+      "id": "035f7bf5485cdd14b0b203e321f10fd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rest'Ici ",
+        "description": "135 Boulevard Chanzy, 93100 Montreuil",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.425217,
+          48.858931
+        ],
+        "type": "Point"
+      },
+      "id": "0b91e608922699ca7ec6e7340617f998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chaumette ",
+        "description": "7 Rue Gros, 75016 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.277326,
+          48.851283
+        ],
+        "type": "Point"
+      },
+      "id": "10e91b6ad473ef507652793bb20e0043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ellsworth",
+        "description": "34 Rue de Richelieu, 75001 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.336943,
+          48.865607
+        ],
+        "type": "Point"
+      },
+      "id": "18c0390020a655d604fc9d032edad3cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Société Parisienne de Bière ",
+        "description": "5 Rue des Moines, 75017 Paris",
+        "icon": "wineshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.318185,
+          48.887704
+        ],
+        "type": "Point"
+      },
+      "id": "192c6ac5fb78f36c681ebf0b0dac5531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Marbrerie ",
+        "description": "21 Rue Alexis Lepere, 93100 Montreuil",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.440378,
+          48.864206
+        ],
+        "type": "Point"
+      },
+      "id": "1990734ed708876dbb61bc43b8b64d73"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bières Cultes Legendre ",
+        "description": "25 Rue Legendre, 75017 Paris",
+        "icon": "wineshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.314199,
+          48.884255
+        ],
+        "type": "Point"
+      },
+      "id": "2882000adabc60ec85318e3acae468b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clamato ",
+        "description": "80 Rue de Charonne, 75011 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.380822,
+          48.853563
+        ],
+        "type": "Point"
+      },
+      "id": "3272d0adc4a11bd11e381cf7675b128c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beef Club ",
+        "description": "58 Rue Jean-Jacques Rousseau, 75001 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.343523,
+          48.863962
+        ],
+        "type": "Point"
+      },
+      "id": "32c510605eb9234e66d05cc06de17fef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le P'tit Garage ",
+        "description": "61 Rue Jean-Pierre Timbaud, 75011 Paris",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.375099,
+          48.867172
+        ],
+        "type": "Point"
+      },
+      "id": "332ea763029b0fd985141aa1f81572f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Florimond ",
+        "description": "19 Avenue de la Motte-Picquet, 75007 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.307943,
+          48.855701
+        ],
+        "type": "Point"
+      },
+      "id": "347ee5b3ec3b697fcd7555570393af16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arkose",
+        "description": "33 Rue du Progrès, 93100 Montreuil",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.419235,
+          48.851629
+        ],
+        "type": "Point"
+      },
+      "id": "4385ad8decb5a50ea60c9ef0d5748c24"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Cave du Moulin Vieux ",
+        "description": "4 Rue de la Butte aux Cailles, 75013 Paris",
+        "icon": "wineshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.352199,
+          48.828125
+        ],
+        "type": "Point"
+      },
+      "id": "46b8859794bc14ed8f2c47146a184d13"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Bouche à Oreilles ",
+        "description": "10 Place Paul Verlaine, 75013 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.351914,
+          48.827526
+        ],
+        "type": "Point"
+      },
+      "id": "4b835bf84aed14d7c64dbe9b282cc629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Papillon ",
+        "description": "8 Rue Meissonier, 75017 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.304512,
+          48.883444
+        ],
+        "type": "Point"
+      },
+      "id": "534e5499303c7c261ad2f10c6e40fa87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Apicius ",
+        "description": "20 Rue d'Artois, 75008 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.307618,
+          48.873629
+        ],
+        "type": "Point"
+      },
+      "id": "53a322ac7d70ec517651548f5ed889c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La P'tite Mousse ",
+        "description": "29 Rue de Douai, 75009 Paris",
+        "icon": "wineshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.332717,
+          48.882471
+        ],
+        "type": "Point"
+      },
+      "id": "5564fb1febb38616ad50b97ae2f2847d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "L'Amitié Rit ",
+        "description": "120 Avenue du Président Wilson, 93100 Montreuil",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.439377,
+          48.855922
+        ],
+        "type": "Point"
+      },
+      "id": "57ea8396bda023e7141e69c6dbe98263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bleu Olive",
+        "description": "184 Rue de Grenelle, 75007 Paris",
+        "icon": "coffeeshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.306215,
+          48.857913
+        ],
+        "type": "Point"
+      },
+      "id": "58b496bb7cefb167ac3a5046ad45d353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Granny Alice",
+        "description": "65 Rue Marceau, 93100 Montreuil",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.426218,
+          48.852847
+        ],
+        "type": "Point"
+      },
+      "id": "5914b232e346f50f0437fb53ed34ed5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Djawa Mathurins ",
+        "description": "25 Rue des Mathurins, 75008 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.325721,
+          48.872988
+        ],
+        "type": "Point"
+      },
+      "id": "5dfc32e49e2e685860f4cfbce0adc496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lockwood ",
+        "description": "73 Rue d'Aboukir, 75002 Paris",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.346961,
+          48.86782
+        ],
+        "type": "Point"
+      },
+      "id": "5fefe33d67583eb8ab489823c69e9c95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Delicatessen Cave ",
+        "description": "136 Rue Amelot, 75011 Paris",
+        "icon": "grocery"
+      },
+      "geometry": {
+        "coordinates": [
+          2.366754,
+          48.865012
+        ],
+        "type": "Point"
+      },
+      "id": "605ea0c3d3105d9ce03c26f758654964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alimentation Zouaghi ",
+        "description": "192 Rue Etienne Marcel, 93170 Bagnolet",
+        "icon": "grocery"
+      },
+      "geometry": {
+        "coordinates": [
+          2.422011,
+          48.857328
+        ],
+        "type": "Point"
+      },
+      "id": "60f66a9597bc86d18850b601e2b6f9b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Mansart ",
+        "description": "1 Rue Mansart, 75009 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.333537,
+          48.882095
+        ],
+        "type": "Point"
+      },
+      "id": "67de0347e6655d71762f0cd82c09dfd9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Petite Épicerie ",
+        "description": "12 Rue de l'Église, 93100 Montreuil",
+        "icon": "grocery"
+      },
+      "geometry": {
+        "coordinates": [
+          2.442566,
+          48.863754
+        ],
+        "type": "Point"
+      },
+      "id": "6985fd20832326f8718bdf2a7479b164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nonante ",
+        "description": "21 Rue de l'Église, 93100 Montreuil",
+        "icon": "grocery"
+      },
+      "geometry": {
+        "coordinates": [
+          2.443129,
+          48.863879
+        ],
+        "type": "Point"
+      },
+      "id": "6b0280414cebf8a6f28beb9e068ecde7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beers & Records 2 ",
+        "description": "17 rue de l'Eglise, 93100 Montreuil",
+        "icon": "wineshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.437697,
+          48.857419
+        ],
+        "type": "Point"
+      },
+      "id": "706b3544ad4d217d50ac00eed27772b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Petit Sommelier ",
+        "description": "49 Avenue du Maine, 75014 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.322048,
+          48.840296
+        ],
+        "type": "Point"
+      },
+      "id": "78c9ecee9f2dd13225adc1cd050862b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lobster Bar",
+        "description": "41 Rue Coquillière, 75001 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.340717,
+          48.864564
+        ],
+        "type": "Point"
+      },
+      "id": "7b7c809d2dfde0d5ccaad49fd4a36785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chop'In ",
+        "description": "45 Rue de Gergovie, 75014 Paris",
+        "icon": "wineshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.316385,
+          48.833124
+        ],
+        "type": "Point"
+      },
+      "id": "7e2e3918cfefca54b0b0f98a4f129e77"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Les Grands Verres ",
+        "description": "13 Avenue du Président Wilson, 75016 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.29637,
+          48.864578
+        ],
+        "type": "Point"
+      },
+      "id": "811bb73a8ab6d92683cb3507cae03b6a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pimprenelle ",
+        "description": "57 Rue Robespierre, 93100 Montreuil",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.423642,
+          48.853897
+        ],
+        "type": "Point"
+      },
+      "id": "845dd873693d71113270c9532d1b80e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Binouze Rochechouart",
+        "description": "72 Rue de Rochechouart, 75009 Paris",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.346692,
+          48.881641
+        ],
+        "type": "Point"
+      },
+      "id": "8692cf328b5cd81141e520ea729e20e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Septime ",
+        "description": "80 Rue de Charonne, 75011 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.380733,
+          48.853597
+        ],
+        "type": "Point"
+      },
+      "id": "89cdccb0903e5d32435ea1155b3625fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Les Marmites volantes ",
+        "description": "47 Avenue Pasteur, 93100 Montreuil",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.437355,
+          48.865444
+        ],
+        "type": "Point"
+      },
+      "id": "8a4fd8a96f8f474e50f59a34cc6a2e64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Treille d'Or",
+        "description": "21 Rue de la Tombe Issoire, 75014 Paris",
+        "icon": "wineshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.335529,
+          48.832163
+        ],
+        "type": "Point"
+      },
+      "id": "8f27033b9b5555765bb040b5eee79ff2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Sans Souci ",
+        "description": "65 Rue Jean-Baptiste Pigalle, 75009 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.336132,
+          48.881284
+        ],
+        "type": "Point"
+      },
+      "id": "91073f24a0fc9d758e89f4b1fecc0af9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Théâtre Girandole ",
+        "description": "4 Rue Edouard Vaillant, 93100 Montreuil",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.433025,
+          48.857356
+        ],
+        "type": "Point"
+      },
+      "id": "94197cf46fc044f949f87c2699672db6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Les Fines Gueules ",
+        "description": "43 Rue Croix des Petits Champs, 75001 Paris",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.340652,
+          48.865228
+        ],
+        "type": "Point"
+      },
+      "id": "95aaea1106ed855e1f0eac438d27ce8f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Postiche ",
+        "description": "62 Rue Jean-Jacques Rousseau, 75001 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.343735,
+          48.864091
+        ],
+        "type": "Point"
+      },
+      "id": "95f076a21727529def901ab5a3b06103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ballroom ",
+        "description": "58 Rue Jean-Jacques Rousseau, 75001 Paris",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.343405,
+          48.86393
+        ],
+        "type": "Point"
+      },
+      "id": "9a8a578c2f1b7e82994c190c4664085d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maxam ",
+        "description": "59 Rue de Montreuil, 75011 Paris",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.389412,
+          48.850666
+        ],
+        "type": "Point"
+      },
+      "id": "9afd6c8ea61b45ec170bdbe23f02eefb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Little Kitchen",
+        "description": "80 Rue de Paris, 93100 Montreuil",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.430203,
+          48.857116
+        ],
+        "type": "Point"
+      },
+      "id": "9e41848b95cc93763f4a81cadc6cd817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le vingt-deux",
+        "description": "128 Rue de Vincennes, 93100 Montreuil",
+        "icon": "wineshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.434587,
+          48.852214
+        ],
+        "type": "Point"
+      },
+      "id": "a14f58fd9ae64656fdb9a8b76ea628d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Comets ",
+        "description": "38 Rue Léon Frot, 75011 Paris",
+        "icon": "coffeeshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.386925,
+          48.855456
+        ],
+        "type": "Point"
+      },
+      "id": "a97301068a2beaacd3a6cbc847e2bae5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Champeaux ",
+        "description": "Forum des Halles La Canopée, 75001 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.346474,
+          48.862264
+        ],
+        "type": "Point"
+      },
+      "id": "aaba89a232611f347e392a3ca8dccd26"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Re-Naissance ",
+        "description": "71 Rue Marceau, 93100 Montreuil",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.426259,
+          48.852224
+        ],
+        "type": "Point"
+      },
+      "id": "b67263f4f493ddecb8efbc192c112a93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Caves Dargent  ",
+        "description": "45 Rue de Vouillé, 75015 Paris",
+        "icon": "wineshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.308025,
+          48.834095
+        ],
+        "type": "Point"
+      },
+      "id": "bc23e69f8719836fbb6deebd83264287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Les Tatas flingueuses",
+        "description": "52 Rue de Paris, 93100 Montreuil",
+        "icon": "grocery"
+      },
+      "geometry": {
+        "coordinates": [
+          2.432762,
+          48.857606
+        ],
+        "type": "Point"
+      },
+      "id": "ccc5c46d64f8e28d22d99e909b7b12f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cantine Gros Gourmand ",
+        "description": "30 Rue du Capitaine Dreyfus, 93100 Montreuil",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.438845,
+          48.858798
+        ],
+        "type": "Point"
+      },
+      "id": "d2c10831030c0a9828aa1d1be567bd98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Comice ",
+        "description": "31 Avenue de Versailles, 75016 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.275946,
+          48.849392
+        ],
+        "type": "Point"
+      },
+      "id": "d3c93b152e116f47dbc3f8d39ffebdb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Clarence ",
+        "description": "31 Avenue Franklin Delano Roosevelt, 75008 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.309786,
+          48.867405
+        ],
+        "type": "Point"
+      },
+      "id": "d9f2a4115fb08191252286ea06871c20"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Café du Coin ",
+        "description": "9 Rue Camille Desmoulins, 75011 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.380971,
+          48.859028
+        ],
+        "type": "Point"
+      },
+      "id": "e0072fcf02d6cd80a856f72d9b556623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bières Cultes Châtelet",
+        "description": "14 Rue des Halles, 75001 Paris",
+        "icon": "wineshop"
+      },
+      "geometry": {
+        "coordinates": [
+          2.346834,
+          48.859878
+        ],
+        "type": "Point"
+      },
+      "id": "e187da34ef27a9b8349b5f2ead670ccd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Factory ",
+        "description": "20 Rue des Halles, 75001 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.346685,
+          48.860059
+        ],
+        "type": "Point"
+      },
+      "id": "e2c1286a2ceddc968331f20dd34b67d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Faggio ",
+        "description": "72 Rue de Rochechouart, 75009 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.346681,
+          48.881648
+        ],
+        "type": "Point"
+      },
+      "id": "e450c2b4eeb6ecb439b8e03b5dbe869d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Fabu au Meliès ",
+        "description": "Cinéma Municipal Georges Méliès 12 Place Jean Jaurès 93100 Montreuil",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.442681,
+          48.861994
+        ],
+        "type": "Point"
+      },
+      "id": "ec81ec771ba3a7afdb45236d112490b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chez la Vieille ",
+        "description": "1 Rue Bailleul, 75001 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.342424,
+          48.860903
+        ],
+        "type": "Point"
+      },
+      "id": "ed3ef458abaf7eda5b9f8e9041167120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aux Deux Amis ",
+        "description": "45 Rue Oberkampf, 75011 Paris",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.371838,
+          48.864588
+        ],
+        "type": "Point"
+      },
+      "id": "f35369658195da79863957c60863b388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La CaVe",
+        "description": "45 Rue de Paris, 93100 Montreuil",
+        "icon": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          2.434215,
+          48.857841
+        ],
+        "type": "Point"
+      },
+      "id": "f994d476536459ea724b1c7dc8d79a8f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hôtel de Crillon ",
+        "description": "10 Place de la Concorde, 75008 Paris",
+        "icon": "hotel"
+      },
+      "geometry": {
+        "coordinates": [
+          2.321614,
+          48.867169
+        ],
+        "type": "Point"
+      },
+      "id": "fd55a5334ae83d836a9d34b2baa91241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Drunken ",
+        "description": "19 Rue Girard, 93100 Montreuil",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.433821,
+          48.857212
+        ],
+        "type": "Point"
+      },
+      "id": "fdb8f31dcbb28475cb0047bb59cd8952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plan B",
+        "description": "28 Rue de Lourmel, 75015 Paris",
+        "icon": "bar"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2907,
+          48.848974
+        ],
+        "type": "Point"
+      },
+      "id": "fdcef22ac5c2f37b63a62c8e53cc8ff4"
+    }
+  ],
+  "type": "FeatureCollection"
+}
